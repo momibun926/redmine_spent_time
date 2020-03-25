@@ -1,4 +1,4 @@
-# Portuguese strings go here
+# Portuguese Brazil - strings go here
 pt:
   spent_time_title: "Tempo gasto"
   label_total_time: "Tempo total"
@@ -23,4 +23,3 @@ pt:
   cannot_find_project_error: "Não é possível encontrar projeto com id=%{project_id}"
   project_is_mandatory_error: "Você precisa selecionar um projeto"
   label_total_estimated_time: "Tempo estimado total"
-
